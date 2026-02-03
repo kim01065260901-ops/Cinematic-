@@ -1,0 +1,5 @@
+{
+  "name": "Cinematic Storyboard AI",
+  "description": "Generate high-fidelity, cinematic live-action storyboard frames from your scripts using Gemini AI. Features realistic lighting, dynamic compositions, and character consistency.",
+  "requestFramePermissions": []
+}
